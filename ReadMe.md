@@ -22,11 +22,10 @@
 * [伍、個別使用案例的描述](#5)
 * [陸、個別使用案例活動圖](#6)
 * [柒、每個使用案例的名詞與概念類別列舉表](#7)
-* [捌、每個使用案例的初步類別圖](#8)
-* [玖、系統的初步類別圖](#9)
-* [拾、使用案例主要成功情節之英文名稱事件對應](#10)
-* [十一、名稱事件之合約](#11)
-* [十二、使用案例之系統循序圖](#12)
+* [捌、系統的初步類別圖](#8)
+* [玖、使用案例主要成功情節之英文名稱事件對應](#9)
+* [拾、名稱事件之合約](#10)
+* [十一、使用案例之系統循序圖](#11)
 
 
 
@@ -463,7 +462,7 @@
 </table>
 [Top](#Contents)
 
-##<a name ="6"/>六、個別使用案例活動圖
+##<a name ="6"/>陸、個別使用案例活動圖
 
 <p><img src="https://cloud.githubusercontent.com/assets/7005967/4720361/9de51ad4-5930-11e4-9736-6f56510431d4.jpg" title="員工基本資料" /></p>
 
@@ -477,7 +476,7 @@
 <p><img src="https://cloud.githubusercontent.com/assets/7005967/4720362/9debc2da-5930-11e4-99aa-a93ded7f3dcc.jpg" title="點餐系統" /></p>
 
 
-##<a name ="7"/>七、每個使用案例的名詞與概念類別列舉表
+##<a name ="7"/>柒、每個使用案例的名詞與概念類別列舉表
 
 <p><img src="https://cloud.githubusercontent.com/assets/7005967/4720559/faa37850-5931-11e4-9696-dd4c4a4dfe66.jpg" title="概念類別列舉表-1" /></p>
 
@@ -485,40 +484,34 @@
 <p><img src="https://cloud.githubusercontent.com/assets/7005967/4720560/faa89574-5931-11e4-9718-af9e2bd03050.jpg" title="概念類別列舉表-2" /></p>
 
 
-##<a name ="8"/>八、每個使用案例的初步類別圖
 
-##1.員工資料基本編輯之初步流程圖
+##<a name ="8"/>捌、系統的初步類別圖
+<p><img src="https://cloud.githubusercontent.com/assets/7005967/4721027/7366332e-5935-11e4-9565-653784351556.jpg" title="系統的初步類別圖" /></p>
+
+
+##<a name ="9"/>玖、使用案例主要成功情節之英文名稱事件對應
+
+
+###1.員工資料基本編輯之初步流程圖
 <p><img src="https://cloud.githubusercontent.com/assets/7005967/4720706/fe222e4e-5932-11e4-9aa1-5cbb3b869a18.jpg" title="員工資料基本編輯之初步流程圖" /></p>
 
-##2.庫存系統作業之初步流程圖
+###2.庫存系統作業之初步流程圖
 <p><img src="https://cloud.githubusercontent.com/assets/7005967/4720702/fe1d7502-5932-11e4-9bf7-464379a08886.jpg" title="庫存系統作業之初步流程圖" /></p>
 
-##3.訂位系統之初步流程圖
+###3.訂位系統之初步流程圖
 <p><img src="https://cloud.githubusercontent.com/assets/7005967/4720705/fe21f474-5932-11e4-937d-e3e04ee70099.jpg" title="訂位系統之初步流程圖" /></p>
 
-##4.營收系統之初步流程圖
+###4.營收系統之初步流程圖
 <p><img src="https://cloud.githubusercontent.com/assets/7005967/4720704/fe212b48-5932-11e4-973f-f290b8ac0b1b.jpg" title="營收系統之初步流程圖" /></p>
 
-##5.點餐系統之初步流程圖
+###5.點餐系統之初步流程圖
 <p><img src="https://cloud.githubusercontent.com/assets/7005967/4720763/7317e84c-5933-11e4-8f0c-6e70a4a14bd0.jpg" title="點餐系統之初步流程圖" /></p>
 
 
 
 
-##<a name ="9"/>玖、系統的初步類別圖
-<p><img src="https://cloud.githubusercontent.com/assets/7005967/4721027/7366332e-5935-11e4-9565-653784351556.jpg" title="系統的初步類別圖" /></p>
 
-
-##<a name ="10"/>拾、使用案例主要成功情節之英文名稱事件對應
-
-
-修改中
-
-
-
-
-
-##<a name ="11"/>十一、名稱事件之合約
+##<a name ="10"/>拾、名稱事件之合約
 
 ##1.庫存管理系統-合約
 <p><img src="https://cloud.githubusercontent.com/assets/7005967/4721529/5a7ae4e6-5939-11e4-8f28-eb26fd091fb8.jpg" title="庫存管理系統-合約-1" /></p>
@@ -539,9 +532,28 @@
 
 
 
-##<a name ="12"/>十二、使用案例之系統循序圖
+##<a name ="11"/>拾一、使用案例之系統循序圖
 
-修改中
+
+###1.庫存管理系統-循序圖
+<p><img src="https://cloud.githubusercontent.com/assets/7005967/4722302/fbe7081e-593e-11e4-9962-f47a8a55eeb7.jpg" title="庫存管理系統-循序圖" /></p>
+
+
+###2.員工管理系統-循序圖
+<p><img src="https://cloud.githubusercontent.com/assets/7005967/4722301/fbdda29c-593e-11e4-8452-80bf810a7d1d.jpg" title="庫存管理系統-循序圖" /></p>
+
+
+###3.定位系統-循序圖
+<p><img src="https://cloud.githubusercontent.com/assets/7005967/4722300/fbd6e01a-593e-11e4-8daf-9d00e1353b5c.jpg" title="庫存管理系統-循序圖" /></p>
+
+
+###4.營收系統-循序圖
+<p><img src="https://cloud.githubusercontent.com/assets/7005967/4722298/fbd4c186-593e-11e4-99cc-ac4c4d42f5fc.jpg" title="庫存管理系統-循序圖" /></p>
+
+
+###5.點餐系統-循序圖
+<p><img src="https://cloud.githubusercontent.com/assets/7005967/4722299/fbd579aa-593e-11e4-8ab9-91ae132e838f.jpg" title="庫存管理系統-循序圖" /></p>
+
 
 [TOP回到目錄](#Contents)
 
