@@ -505,7 +505,39 @@
 <p><img src="https://cloud.githubusercontent.com/assets/7005967/4721027/7366332e-5935-11e4-9565-653784351556.jpg" title="系統的初步類別圖" /></p>
 
 
+##<a name ="10"/>拾、使用案例主要成功情節之英文名稱事件對應
 
 
-[Top](#Contents)
+修改中
+
+
+
+
+
+##<a name ="11"/>、十一、名稱事件之合約
+
+##1.庫存管理系統-合約
+<p><img src="https://cloud.githubusercontent.com/assets/7005967/4721529/5a7ae4e6-5939-11e4-8f28-eb26fd091fb8.jpg" title="庫存管理系統-合約-1" /></p>
+
+<p><img src="https://cloud.githubusercontent.com/assets/7005967/4721528/5a74ca2a-5939-11e4-8504-130445593c08.jpg" title="庫存管理系統-合約-2" /></p>
+
+##2.員工管理系統-合約
+<p><img src="https://cloud.githubusercontent.com/assets/7005967/4721540/6424f810-5939-11e4-8b0b-13edd6a22c0a.jpg" title="員工管理系統-合約-1" /></p>
+
+<p><img src="https://cloud.githubusercontent.com/assets/7005967/4721539/641d680c-5939-11e4-964c-836da486d41e.jpg" title="員工管理系統-合約-2" /></p>
+##3.定位系統-合約
+<p><img src="https://cloud.githubusercontent.com/assets/7005967/4721548/71c78212-5939-11e4-9c80-a98d4be56d1b.jpg" title="定位系統-合約" /></p>
+##4.營收系統-合約
+<p><img src="https://cloud.githubusercontent.com/assets/7005967/4721549/76ee604e-5939-11e4-9ed0-781a09531b13.jpg" title="營收系統-合約" /></p>
+##5.點餐系統-合約
+<p><img src="https://cloud.githubusercontent.com/assets/7005967/4721553/7abaf0ca-5939-11e4-96ca-1b67b16da32d.jpg" title="點餐系統-合約" /></p>
+
+
+
+
+##<a name ="12"/>、十二、使用案例之系統循序圖
+
+修改中
+
+[TOP回到目錄](#Contents)
 
