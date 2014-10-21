@@ -473,6 +473,23 @@
 <p><img src="https://cloud.githubusercontent.com/assets/7005967/4720560/faa89574-5931-11e4-9718-af9e2bd03050.jpg" title="概念類別列舉表-2" /></p>
 
 
+##<a name ="5"/>八、每個使用案例的初步類別圖
+
+##1.員工資料基本編輯之初步流程圖
+<p><img src="https://cloud.githubusercontent.com/assets/7005967/4720706/fe222e4e-5932-11e4-9aa1-5cbb3b869a18.jpg" title="員工資料基本編輯之初步流程圖" /></p>
+
+##2.庫存系統作業之初步流程圖
+<p><img src="https://cloud.githubusercontent.com/assets/7005967/4720702/fe1d7502-5932-11e4-9bf7-464379a08886.jpg" title="庫存系統作業之初步流程圖" /></p>
+
+##3.訂位系統之初步流程圖
+<p><img src="https://cloud.githubusercontent.com/assets/7005967/4720705/fe21f474-5932-11e4-937d-e3e04ee70099.jpg" title="訂位系統之初步流程圖" /></p>
+
+##4.營收系統之初步流程圖
+<p><img src="https://cloud.githubusercontent.com/assets/7005967/4720704/fe212b48-5932-11e4-973f-f290b8ac0b1b.jpg" title="營收系統之初步流程圖" /></p>
+
+##5.點餐系統之初步流程圖
+<p><img src="https://cloud.githubusercontent.com/assets/7005967/4720763/7317e84c-5933-11e4-8f0c-6e70a4a14bd0.jpg" title="點餐系統之初步流程圖" /></p>
+
 
 
 
