@@ -83,7 +83,7 @@
 </table>
 
 
-##<a name ="4"/>系統使用案例圖
+##<a name ="4"/>肆、系統使用案例圖
 
 <p><img src="https://cloud.githubusercontent.com/assets/7005967/4719811/891ff884-592c-11e4-984b-3f9fa12fde53.png" title="使用案例描述_學生基本資料作業" /></p>
 
@@ -450,6 +450,34 @@
 <tr>
 </table>
 [Top](#Contents)
+
+##<a name ="5"/>六、個別使用案例活動圖
+
+<p><img src="https://cloud.githubusercontent.com/assets/7005967/4720361/9de51ad4-5930-11e4-9736-6f56510431d4.jpg" title="員工基本資料" /></p>
+
+<p><img src="https://cloud.githubusercontent.com/assets/7005967/4720363/9ded10d6-5930-11e4-80c7-20f608661565.jpg" title="庫存管理系統" /></p>
+
+<p><img src="https://cloud.githubusercontent.com/assets/7005967/4720365/9dfb58a8-5930-11e4-94af-bf2af591ad5b.jpg" title="顧客定位系統" /></p>
+
+
+<p><img src="https://cloud.githubusercontent.com/assets/7005967/4720364/9df6a2a4-5930-11e4-8c37-2875df0ee43c.jpg" title="營收管理系統" /></p>
+
+<p><img src="https://cloud.githubusercontent.com/assets/7005967/4720362/9debc2da-5930-11e4-99aa-a93ded7f3dcc.jpg" title="點餐系統" /></p>
+
+
+##<a name ="5"/>七、每個使用案例的名詞與概念類別列舉表
+
+<p><img src="https://cloud.githubusercontent.com/assets/7005967/4720559/faa37850-5931-11e4-9696-dd4c4a4dfe66.jpg" title="概念類別列舉表-1" /></p>
+
+
+<p><img src="https://cloud.githubusercontent.com/assets/7005967/4720560/faa89574-5931-11e4-9718-af9e2bd03050.jpg" title="概念類別列舉表-2" /></p>
+
+
+
+
+
+
+
 
 
 
