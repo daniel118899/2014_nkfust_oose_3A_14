@@ -11,7 +11,7 @@
 
 ---
 
-#專題題目:"摳哭哩租"點餐系統
+#專題題目:“肉燥飯”點餐系統
 
 ##<a name="Contents"/>目錄
 
@@ -56,7 +56,7 @@
   <tr>
     <td>老闆</td>
     <td>
-      1.方便空管營收
+      1.方便�控管營收
 	  2.方便庫存管理<br>
 	</td>
   </tr>
@@ -256,7 +256,7 @@
   </tr>
   <tr>
     <td>使用案例敘述</td>
-    <td>員工接到顧客定位，保留其座位</td>
+    <td>員工接到顧客訂位，保留其座位</td>
 	<td></td>
   </tr>
   <tr>
@@ -272,7 +272,7 @@
 
 <tr>
 	<td>前置條件</td>
-	<td>顧客提出定位要求</td>
+	<td>顧客提出訂位要求</td>
 	<td></td>
 </tr>
 
@@ -307,7 +307,7 @@
 </tr>
 <tr>
 	<td>例外情節</td>
-	<td>客滿無法定位，出現相關資訊或者能來客的時間</td>
+	<td>客滿無法訂位，出現相關資訊或者能來客的時間</td>
 	<td></td>
 </tr>
 
@@ -460,6 +460,7 @@
 	<td></td>
 <tr>
 </table>
+
 [Top](#Contents)
 
 ##<a name ="6"/>陸、個別使用案例活動圖
@@ -468,7 +469,7 @@
 
 <p><img src="https://cloud.githubusercontent.com/assets/7005967/4720363/9ded10d6-5930-11e4-80c7-20f608661565.jpg" title="庫存管理系統" /></p>
 
-<p><img src="https://cloud.githubusercontent.com/assets/7005967/4720365/9dfb58a8-5930-11e4-94af-bf2af591ad5b.jpg" title="顧客定位系統" /></p>
+<p><img src="https://cloud.githubusercontent.com/assets/7005967/4720365/9dfb58a8-5930-11e4-94af-bf2af591ad5b.jpg" title="顧客訂位系統" /></p>
 
 
 <p><img src="https://cloud.githubusercontent.com/assets/7005967/4720364/9df6a2a4-5930-11e4-8c37-2875df0ee43c.jpg" title="營收管理系統" /></p>
@@ -492,19 +493,19 @@
 ##<a name ="9"/>玖、使用案例主要成功情節之英文名稱事件對應
 
 
-###1.員工資料基本編輯之初步流程圖
+###1.員工資料基本編輯之初步類別圖
 <p><img src="https://cloud.githubusercontent.com/assets/7005967/4720706/fe222e4e-5932-11e4-9aa1-5cbb3b869a18.jpg" title="員工資料基本編輯之初步流程圖" /></p>
 
-###2.庫存系統作業之初步流程圖
+###2.庫存系統作業之初步類別圖
 <p><img src="https://cloud.githubusercontent.com/assets/7005967/4720702/fe1d7502-5932-11e4-9bf7-464379a08886.jpg" title="庫存系統作業之初步流程圖" /></p>
 
-###3.訂位系統之初步流程圖
+###3.訂位系統之初步類別圖
 <p><img src="https://cloud.githubusercontent.com/assets/7005967/4720705/fe21f474-5932-11e4-937d-e3e04ee70099.jpg" title="訂位系統之初步流程圖" /></p>
 
-###4.營收系統之初步流程圖
+###4.營收系統之初步類別圖
 <p><img src="https://cloud.githubusercontent.com/assets/7005967/4720704/fe212b48-5932-11e4-973f-f290b8ac0b1b.jpg" title="營收系統之初步流程圖" /></p>
 
-###5.點餐系統之初步流程圖
+###5.點餐系統之初步類別圖
 <p><img src="https://cloud.githubusercontent.com/assets/7005967/4720763/7317e84c-5933-11e4-8f0c-6e70a4a14bd0.jpg" title="點餐系統之初步流程圖" /></p>
 
 
@@ -522,8 +523,8 @@
 <p><img src="https://cloud.githubusercontent.com/assets/7005967/4721540/6424f810-5939-11e4-8b0b-13edd6a22c0a.jpg" title="員工管理系統-合約-1" /></p>
 
 <p><img src="https://cloud.githubusercontent.com/assets/7005967/4721539/641d680c-5939-11e4-964c-836da486d41e.jpg" title="員工管理系統-合約-2" /></p>
-##3.定位系統-合約
-<p><img src="https://cloud.githubusercontent.com/assets/7005967/4721548/71c78212-5939-11e4-9c80-a98d4be56d1b.jpg" title="定位系統-合約" /></p>
+##3.訂位系統-合約
+<p><img src="https://cloud.githubusercontent.com/assets/7005967/4721548/71c78212-5939-11e4-9c80-a98d4be56d1b.jpg" title="訂位系統-合約" /></p>
 ##4.營收系統-合約
 <p><img src="https://cloud.githubusercontent.com/assets/7005967/4721549/76ee604e-5939-11e4-9ed0-781a09531b13.jpg" title="營收系統-合約" /></p>
 ##5.點餐系統-合約
@@ -543,7 +544,7 @@
 <p><img src="https://cloud.githubusercontent.com/assets/7005967/4722301/fbdda29c-593e-11e4-8452-80bf810a7d1d.jpg" title="庫存管理系統-循序圖" /></p>
 
 
-###3.定位系統-循序圖
+###3.訂位系統-循序圖
 <p><img src="https://cloud.githubusercontent.com/assets/7005967/4722300/fbd6e01a-593e-11e4-8daf-9d00e1353b5c.jpg" title="庫存管理系統-循序圖" /></p>
 
 
