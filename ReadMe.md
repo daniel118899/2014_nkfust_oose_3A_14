@@ -474,6 +474,9 @@
 
 ##<a name ="6"/>陸、個別使用案例活動圖
 
+<p><img src="https://cloud.githubusercontent.com/assets/9345359/4730713/1f282cf4-599e-11e4-8f83-ed022dcffb36.PNG" title="登入系統" /></p>
+
+
 <p><img src="https://cloud.githubusercontent.com/assets/7005967/4720361/9de51ad4-5930-11e4-9736-6f56510431d4.jpg" title="員工基本資料" /></p>
 
 <p><img src="https://cloud.githubusercontent.com/assets/7005967/4720363/9ded10d6-5930-11e4-80c7-20f608661565.jpg" title="庫存管理系統" /></p>
