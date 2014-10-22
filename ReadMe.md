@@ -71,9 +71,11 @@
     <th>事件名稱</th>
     <th>使用案例名稱</th>
   </tr>
+  
+  
   <tr>
-    <th>Login</th>
-    <th>登入系統</th>
+    <td>Login</td>
+    <td>登入系統</td>
   </tr>
   
   <tr>
