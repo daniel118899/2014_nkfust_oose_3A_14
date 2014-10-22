@@ -31,9 +31,7 @@
 
 ##<a name="1"/>壹、系統敘述
 
-　　對於一間餐廳而言，除了店內的美食、店員的服務品質以及店內舒適度之外，對於餐廳管理者而言最重要的事，就是在於餐點的控管、服務的品質以及餐廳內部的管理。<br>
-　　於是我們以餐點系統作為出發點，設計了一套餐廳管理系統，希望可以有助於管理者方便控管以及提升顧客的用餐品質．一方面也可以讓顧客透過個人的行動裝置，並依循自己的喜好來來點餐。<br>
-　　其中包含員工管理系統、點餐系統、庫存管理系統、營收管理系統、訂位管理系統以及登入系統等六大子系統。
+　　對於一間餐廳而言，除了店內的美食、店員的服務品質以及店內舒適度之外，對於餐廳管理者而言最重要的事，就是在於餐點的控管、服務的品質以及餐廳內部的管理。於是我們以餐點系統作為出發點，設計了一套餐廳管理系統，希望可以有助於管理者方便控管以及提升顧客的用餐品質．一方面也可以讓顧客透過個人的行動裝置，並依循自己的喜好來來點餐。其中包含員工管理系統、點餐系統、庫存管理系統、營收管理系統、訂位管理系統以及登入系統等六大子系統。
 
 
 
@@ -554,17 +552,20 @@
 
 <p><img src="https://cloud.githubusercontent.com/assets/9345359/4730713/1f282cf4-599e-11e4-8f83-ed022dcffb36.PNG" title="登入系統" /></p>
 
+###員工基本資料###
+<p><img src="https://cloud.githubusercontent.com/assets/7005967/4731741/b6faf86a-59b0-11e4-94d6-2fb68d4ee73f.jpg" title="員工基本資料" /></p>
 
-<p><img src="https://cloud.githubusercontent.com/assets/7005967/4720361/9de51ad4-5930-11e4-9736-6f56510431d4.jpg" title="員工基本資料" /></p>
+###庫存管理系統###
+<p><img src="https://cloud.githubusercontent.com/assets/7005967/4731742/b7016470-59b0-11e4-8132-54b97b341532.jpg" title="庫存管理系統" /></p>
 
-<p><img src="https://cloud.githubusercontent.com/assets/7005967/4720363/9ded10d6-5930-11e4-80c7-20f608661565.jpg" title="庫存管理系統" /></p>
+###顧客訂位系統###
+<p><img src="https://cloud.githubusercontent.com/assets/7005967/4731745/b70c91e2-59b0-11e4-9885-dfc78c62e874.jpg" title="顧客訂位系統" /></p>
 
-<p><img src="https://cloud.githubusercontent.com/assets/7005967/4720365/9dfb58a8-5930-11e4-94af-bf2af591ad5b.jpg" title="顧客訂位系統" /></p>
+###營收管理系統###
+<p><img src="https://cloud.githubusercontent.com/assets/7005967/4731743/b7029f8e-59b0-11e4-8d6c-27264270020e.jpg" title="營收管理系統" /></p>
 
-
-<p><img src="https://cloud.githubusercontent.com/assets/7005967/4720364/9df6a2a4-5930-11e4-8c37-2875df0ee43c.jpg" title="營收管理系統" /></p>
-
-<p><img src="https://cloud.githubusercontent.com/assets/7005967/4720362/9debc2da-5930-11e4-99aa-a93ded7f3dcc.jpg" title="點餐系統" /></p>
+###點餐系統###
+<p><img src="https://cloud.githubusercontent.com/assets/7005967/4731744/b7064512-59b0-11e4-9ea3-ab3120caa400.jpg" title="點餐系統" /></p>
 
 
 ##<a name ="7"/>柒、每個使用案例的名詞與概念類別列舉表
