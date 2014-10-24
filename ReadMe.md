@@ -579,6 +579,8 @@
 
 <p><img src="https://cloud.githubusercontent.com/assets/7005980/4764221/90623c24-5b20-11e4-86cf-112d3f04bf6a.png" title="概念類別列舉表-2" /></p>
 
+<p><img src="https://cloud.githubusercontent.com/assets/7005980/4764385/34383706-5b24-11e4-83ce-c60b32579919.png" title="概念類別列舉表-3" /></p>
+
 
 
 ##<a name ="8"/>捌、系統的初步類別圖
