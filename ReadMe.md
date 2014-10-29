@@ -188,7 +188,7 @@
 
 
 
-##2.員工基本資料
+##2.員工管理系統
 <table border="0">
   <tr>
     <th>案例名稱</th>
@@ -557,7 +557,7 @@
 
 <p><img src="https://cloud.githubusercontent.com/assets/9345359/4730713/1f282cf4-599e-11e4-8f83-ed022dcffb36.PNG" title="登入系統" /></p>
 
-###員工基本資料###
+###員工管理系統###
 <p><img src="https://cloud.githubusercontent.com/assets/7005967/4731741/b6faf86a-59b0-11e4-94d6-2fb68d4ee73f.jpg" title="員工基本資料" /></p>
 
 ###庫存管理系統###
@@ -647,7 +647,7 @@
 <p><img src="https://cloud.githubusercontent.com/assets/7005980/4756590/97879208-5ace-11e4-8f0a-d5df3e8e4713.jpg" title="登入系統-循序圖" /></p>
 
 ###2.庫存管理系統-循序圖
-<p><img src="https://cloud.githubusercontent.com/assets/7005967/4722302/fbe7081e-593e-11e4-9962-f47a8a55eeb7.jpg" title="庫存管理系統-循序圖" /></p>
+<p><img src="https://cloud.githubusercontent.com/assets/7005967/4722301/fbdda29c-593e-11e4-8452-80bf810a7d1d.jpg" title="庫存管理系統-循序圖" /></p>
 
 
 ###3.員工管理系統-循序圖
