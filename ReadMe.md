@@ -651,7 +651,7 @@
 
 
 ###3.員工管理系統-循序圖
-<p><img src="https://cloud.githubusercontent.com/assets/7005967/4722301/fbdda29c-593e-11e4-8452-80bf810a7d1d.jpg" title="庫存管理系統-循序圖" /></p>
+<p><img src="https://cloud.githubusercontent.com/assets/7005967/4722302/fbe7081e-593e-11e4-9962-f47a8a55eeb7.jpg" title="庫存管理系統-循序圖" /></p>
 
 
 ###4.訂位系統-循序圖
