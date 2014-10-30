@@ -585,7 +585,7 @@
 
 
 ##<a name ="8"/>捌、系統的初步類別圖
-<p><img src="https://cloud.githubusercontent.com/assets/7005980/4756587/97590eb0-5ace-11e4-9e7e-4a16527acf32.jpg" title="系統的初步類別圖" /></p>
+<p><img src="https://cloud.githubusercontent.com/assets/7005980/4821290/9f78057a-5f28-11e4-8905-5b3cb2ac09f0.jpg" title="系統的初步類別圖" /></p>
 
 
 ##<a name ="9"/>玖、使用案例主要成功情節之英文名稱事件類別圖
