@@ -110,7 +110,7 @@
 
 ##<a name ="4"/>肆、系統使用案例圖
 
-<p><img src="https://cloud.githubusercontent.com/assets/7005967/4719811/891ff884-592c-11e4-984b-3f9fa12fde53.png" title="使用案例描述_學生基本資料作業" /></p>
+<p><img src="https://cloud.githubusercontent.com/assets/7005980/4911380/b0390e7c-648c-11e4-8e65-5d93258ca12e.jpg" title="使用案例描述_學生基本資料作業" /></p>
 
 
 ##<a name ="5"/>伍、個別使用案例的描述
