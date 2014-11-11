@@ -110,7 +110,7 @@
 
 ##<a name ="4"/>肆、系統使用案例圖
 
-<p><img src="https://cloud.githubusercontent.com/assets/7005980/4911380/b0390e7c-648c-11e4-8e65-5d93258ca12e.jpg" title="使用案例描述_學生基本資料作業" /></p>
+<p><img src="https://cloud.githubusercontent.com/assets/7005980/4994819/3c9a906a-69f7-11e4-9065-491dba3086dd.jpg" title="使用案例描述" /></p>
 
 
 ##<a name ="5"/>伍、個別使用案例的描述
@@ -585,14 +585,14 @@
 
 
 ##<a name ="8"/>捌、系統的初步類別圖
-<p><img src="https://cloud.githubusercontent.com/assets/7005980/4821290/9f78057a-5f28-11e4-8905-5b3cb2ac09f0.jpg" title="系統的初步類別圖" /></p>
+<p><img src="https://cloud.githubusercontent.com/assets/7005980/4994818/3c9735be-69f7-11e4-915c-077df04f350f.jpg" title="系統的初步類別圖" /></p>
 
 
 ##<a name ="9"/>玖、使用案例主要成功情節之英文名稱事件類別圖
 
 
 ###1.登入系統之初步類別圖
-<p><img src="https://cloud.githubusercontent.com/assets/7005980/4821289/9f773186-5f28-11e4-8d05-33bf277be65c.jpg" title="登入系統之英文名稱事件類別圖" /></p>
+<p><img src="https://cloud.githubusercontent.com/assets/7005980/4994820/3c9ed148-69f7-11e4-96be-48ea8a84d306.jpg" title="登入系統之英文名稱事件類別圖" /></p>
 
 ###2.員工資料基本編輯之初步類別圖
 <p><img src="https://cloud.githubusercontent.com/assets/7005980/4821291/9f784d32-5f28-11e4-88fd-6470d3906998.jpg" title="員工資料基本編輯之英文名稱事件類別圖" /></p>
