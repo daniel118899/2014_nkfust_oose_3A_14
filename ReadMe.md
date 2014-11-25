@@ -26,6 +26,8 @@
 * [玖、使用案例主要成功情節之英文名稱事件對應](#9)
 * [拾、名稱事件之合約](#10)
 * [十一、使用案例之系統循序圖](#11)
+* [十二、強韌圖](#12)
+* [十三、分析模型](#13)
 
 ---
 
@@ -640,7 +642,7 @@
 
 
 
-##<a name ="11"/>拾一、使用案例之系統循序圖
+##<a name ="11"/>拾壹、使用案例之系統循序圖
 
 
 ###1.登入系統-循序圖
@@ -665,6 +667,33 @@
 ###6.點餐系統-循序圖
 <p><img src="https://cloud.githubusercontent.com/assets/7005967/4844881/2dc9196e-6040-11e4-99a7-d497695e0df1.jpg" title="庫存管理系統-循序圖" /></p>
 
+
+##<a name="12"/>拾貳、強韌圖
+###1.登入系統-強韌圖
+<p><img src="https://cloud.githubusercontent.com/assets/7005980/5184488/d500a9c4-74f2-11e4-98df-5be0cf0f73d1.jpg" title="登入系統-強韌圖" /></p>
+
+###2.庫存管理系統-強韌圖
+<p><img src="https://cloud.githubusercontent.com/assets/7005980/5184489/d50154be-74f2-11e4-8090-41049b0ca19d.jpg" title="庫存管理系統-強韌圖" /></p>
+
+
+###3.員工管理系統-強韌圖
+<p><img src="https://cloud.githubusercontent.com/assets/7005980/5184494/d52b9cd8-74f2-11e4-8342-a973aa3f912f.jpg" title="員工管理系統-強韌圖" /></p>
+
+
+###4.訂位系統-強韌圖
+<p><img src="https://cloud.githubusercontent.com/assets/7005980/5184492/d51446d2-74f2-11e4-95b2-bf6d70fa5071.jpg" title="訂位系統-強韌圖" /></p>
+
+
+###5.營收系統-強韌圖
+<p><img src="https://cloud.githubusercontent.com/assets/7005980/5184494/d52b9cd8-74f2-11e4-8342-a973aa3f912f.jpg" title="營收系統-強韌圖" /></p>
+
+
+###6.點餐系統-強韌圖
+<p><img src="https://cloud.githubusercontent.com/assets/7005980/5184491/d5101d14-74f2-11e4-96c2-8939a77f4087.jpg" title="點餐系統-強韌圖" /></p>
+
+
+##<a name="13"/>拾參、分析模型
+<p><img src="https://cloud.githubusercontent.com/assets/7005980/5184493/d515603a-74f2-11e4-9fad-150a5e0b3644.jpg" title="分析模型" /></p>
 
 [TOP回到目錄](#Contents)
 
